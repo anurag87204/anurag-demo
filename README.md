@@ -1,3 +1,3 @@
 # anurag-demo
 this is my first git repositiory 
-Author - anurag rai
+Author - anurag (atika)
